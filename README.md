@@ -1,6 +1,6 @@
 Developed a Todo mobile application with the following features:
 
-* Tech Stack: Flutter, Dart, Django REST Framework, SQLite, HTTP, Pie Chart
+* Tech Stack: Flutter, Dart, Django REST Framework, SQLite, HTTP.
 
 * Users can add, delete, and view tasks in real-time using a RESTful API.
 
